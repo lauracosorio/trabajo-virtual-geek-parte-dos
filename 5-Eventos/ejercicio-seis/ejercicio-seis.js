@@ -14,4 +14,3 @@ function backgroundColor(event) {
     body.classList.remove('red');
   }
 }
-
